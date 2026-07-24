@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:6C63FF&height=220&section=header&text=Shaurya%20Singh&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Systems%20%C2%B7%20Building%20for%20Scale&descSize=16&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:6C63FF&height=220&section=header&text=Shaurya%20Singh&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Systems%20%C2%B7%20Building%20for%20Scale&descSize=16&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shauryasingh0302)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shauryasingh0302)&nbsp;
