@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shauryasingh0302)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shauryasingh0302)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=render&logoColor=white)](https://shauryasingh.onrender.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://shauryasingh.dev)&nbsp;
 [![Email](https://img.shields.io/badge/Email-6C63FF?style=flat-square&logo=maildotru&logoColor=white)](mailto:shauryasingh0302@icloud.com)
 
 </div>
