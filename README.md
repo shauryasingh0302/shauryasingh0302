@@ -15,13 +15,7 @@ I'm a Full-Stack Engineer passionate about building AI-powered products with mod
 
 **National Winner, Smart India Hackathon 2025** — India's largest hackathon — for *Navjivan*, an AI-powered health platform.
 
-<br/>
-
-#### GitHub Stats
-
 <div align="center">
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shauryasingh0302&theme=transparent&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=8b949e&sideLabels=8b949e&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" />
