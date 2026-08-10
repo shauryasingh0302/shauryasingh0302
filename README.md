@@ -17,45 +17,6 @@ I'm a Full-Stack Engineer passionate about building AI-powered products with mod
 
 <br/>
 
-#### Currently
-
-- Building AI-integrated tools at production scale
-- Deepening expertise in system design and distributed architectures
-- Open to Software Engineering internships and select collaborations
-
-<br/>
-
-#### Tech Stack
-
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>JavaScript · TypeScript · Java · SQL</td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>React · Next.js · React Native · Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>Node.js · Express · REST APIs · WebSockets · JWT</td>
-  </tr>
-  <tr>
-    <td><b>Data</b></td>
-    <td>PostgreSQL · MongoDB · Prisma · Drizzle ORM · Pinecone</td>
-  </tr>
-  <tr>
-    <td><b>AI</b></td>
-    <td>LangChain · RAG · Google Gemini · Vercel AI SDK · OpenRouter</td>
-  </tr>
-  <tr>
-    <td><b>DevOps</b></td>
-    <td>Git · Vercel · Supabase · Cloudinary · Clerk · Postman</td>
-  </tr>
-</table>
-
-<br/>
-
 #### GitHub Stats
 
 <div align="center">
